@@ -2,7 +2,7 @@ body{
   text-align:center;
   font-family: cursive;
   letter-spacing:1px;
-   background: rgba(0,0,0,0.05);
+  background-image: url(./img/background.png);
   padding:2rem;
 }
 h1{
