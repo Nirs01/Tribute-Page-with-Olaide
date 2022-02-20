@@ -9,8 +9,8 @@ h1{
   font-size:2.5em
 }
 main{
-  margin-left:15rem;
-  margin-right:15rem;
+  margin-left:4vw;
+  margin-right:4vw;
 }
 
 #title{
@@ -55,7 +55,7 @@ img {
 }
 
 
-}
+
 
 figure{
   display: flex-column;  
@@ -63,7 +63,7 @@ figure{
   }
   
   
-}
+
 h2{
   text-align:left;
   letter-spacing:1px;
